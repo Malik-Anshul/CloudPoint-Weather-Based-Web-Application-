@@ -1,25 +1,43 @@
-WEATHER APP
-  This is a simple weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data from the OpenWeatherMap API and displays the current temperature, description, humidity, wind speed,     and weather condition icon for a searched city.
+# 🌤️ CloudPoint – Weather-Based Web Application
 
-🔧 Features
-  Get current weather data for any city
+CloudPoint is a responsive weather forecast web app built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the **OpenWeatherMap API** and displays temperature, humidity, and conditions for any searched city.
 
-Displays:
+🔗 **Live Demo**: [https://malik-anshul.github.io/CloudPoint-Weather-Based-Web-Application-/](https://malik-anshul.github.io/CloudPoint-Weather-Based-Web-Application-/)
 
-  Temperature in Celsius
+---
 
-  Weather description (e.g., clear sky, rain)
+## 🚀 Features
 
-  Wind speed
+- 🔍 Search for any city's weather
+- 📡 Real-time weather data from OpenWeatherMap API
+- 🌡️ Displays temperature, weather condition, humidity
+- 🌈 Weather icons based on condition
+- ✅ Error handling for invalid or empty input
+- 📱 Responsive design (mobile-friendly)
 
-  Humidity
+---
 
-  Weather image based on condition (e.g., cloud, rain, clear)
+## 🛠️ Tech Stack
 
-  User-friendly and responsive interface
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **API**: OpenWeatherMap
 
-📋 How to Run the Project
+---
 
-Clone the repository
 
-git clone https://github.com/Malik-Anshul/CloudPoint-Weather-Based-Web-Application-/tree/main
+## 🧠 How It Works
+
+1. User enters a city name.
+2. JS fetches weather data from OpenWeatherMap API.
+3. Displays weather info: temperature, condition, and humidity.
+4. Icons and conditions are dynamically shown.
+
+---
+
+## 📩 API Reference
+
+- [OpenWeatherMap API](https://openweathermap.org/api)
+
+
+
+
