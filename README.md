@@ -17,3 +17,9 @@ Displays:
   Weather image based on condition (e.g., cloud, rain, clear)
 
   User-friendly and responsive interface
+
+📋 How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/Malik-Anshul/CloudPoint-Weather-Based-Web-Application-/tree/main
